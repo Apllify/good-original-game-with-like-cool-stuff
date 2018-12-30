@@ -1,0 +1,2 @@
+# good-original-game-with-like-cool-stuff
+youre a guy that wants to die but you want to do one thing before you do it suddenly theres an ad on the tv saying that theres a castle of death with prize at the top and thenn you go there and then the tutorial begins  so this guy goes to the castle because he wants to die right? you cant die there  until he get the prize    the final boss is going to be the person that you saw on the add  but in mid fight he turns into  a demon and u platform and swing like spiderman
