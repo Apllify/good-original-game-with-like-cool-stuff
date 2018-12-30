@@ -1,2 +1,37 @@
-# good-original-game-with-like-cool-stuff
-youre a guy that wants to die but you want to do one thing before you do it suddenly theres an ad on the tv saying that theres a castle of death with prize at the top and thenn you go there and then the tutorial begins  so this guy goes to the castle because he wants to die right? you cant die there  until he get the prize    the final boss is going to be the person that you saw on the add  but in mid fight he turns into  a demon and u platform and swing like spiderman
+## Welcome to GitHub Pages
+
+You can use the [editor on GitHub](https://github.com/Apllify/good-original-game-with-like-cool-stuff/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Apllify/good-original-game-with-like-cool-stuff/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
